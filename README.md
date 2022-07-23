@@ -1,1 +1,5 @@
-# m10-hw10-abdulaal-mirna
+# Subject
+A solved assignment for BEM naming convention 
+
+#Docs
+http://getbem.com/
