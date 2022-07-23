@@ -1,5 +1,5 @@
 # Subject
-A solved assignment for BEM naming convention 
+#### A solved assignment for BEM naming convention 
 
-### Documentaion
+# Documentaion
 http://getbem.com/
