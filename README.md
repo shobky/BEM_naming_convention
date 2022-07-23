@@ -1,5 +1,5 @@
 # Subject
 A solved assignment for BEM naming convention 
 
-#Docs
+# Documentaion
 http://getbem.com/
